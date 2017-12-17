@@ -1,0 +1,12 @@
+{
+  "name": "@azz/foo",
+  "version": "0.0.0",
+  "main": "dist/index.umd.js",
+  "dependencies": {
+    "@azz/bar": "*"
+  },
+  "files": [
+    "dist/"
+  ],
+  "browser": true
+}
